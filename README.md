@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍🏫 Thầy Đặng
+# Thầy ĐĂNG 
 ### KHTN Teacher • Python Developer • AI Education Builder
 
 <p align="center">
@@ -13,12 +13,11 @@
 
 ## 👋 Giới thiệu
 
-Tôi là giáo viên **Khoa học Tự nhiên THCS** tại TP.HCM,  
-đồng thời phát triển các công cụ **AI, automation và edtech**  
+Tôi là giáo viên **Khoa học Tự nhiên THCS** tại TP.HCM, đồng thời phát triển các công cụ **AI, automation và edtech**  
 phục vụ giảng dạy theo chương trình **GDPT 2018**.
 
 🔬 **Chuyên môn:**
-- Vật lí · Hóa học · Sinh học
+- Vật lí · KHOA HỌC TỰ NHIÊN
 - Thiết kế học liệu số
 - Luyện thi chuyên, bồi dưỡng HSG THCS
 
