@@ -179,7 +179,8 @@ Chuyển đổi dữ liệu thô thành bộ tài liệu đồng bộ: Đề cư
 
 <div align="center">
 
-### ✨ * Dạy học không phải là đổ đầy một cái xô mà là thắp lên ngọn lửa đam mê | Không chỉ dừng lại ở việc giảng dạy Khoa học, mà còn hướng đến việc kiến tạo công nghệ để nâng cao tri thức và lòng trắc ẩn."*
+### ✨ * Dạy học không phải là đổ đầy một cái xô mà là thắp lên ngọn lửa đam mê | 
+Không chỉ dừng lại ở việc giảng dạy Khoa học, mà còn hướng đến việc kiến tạo công nghệ để nâng cao tri thức và lòng trắc ẩn."*
 *"Not just a Science Teacher — an Education Engineer."*
 
 </div>
