@@ -1,6 +1,6 @@
 <div align="center">
 
-# Thầy ĐĂNG
+# THẦY ĐĂNG
 ### Learning Architect · KHTN Teacher · EdTech Engineer
 
 <p align="center">
