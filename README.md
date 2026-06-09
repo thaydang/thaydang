@@ -4,7 +4,7 @@
 ### Learning Architect · KHTN Teacher · EdTech Engineer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=800&lines=Gi%C3%A1o+vi%C3%AAn+KHTN+THCS+%7C+TP.HCM;Learning+Architect+%7C+Compassionate+Pedagogy;Python+%7C+AI+%7C+Document+Automation;H-STEM+%7C+MIL+%7C+Agentic+EdTech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Gi%C3%A1o+vi%C3%AAn+KHTN+THCS+%7C+TP.HCM;Learning+Architect+%7C+Compassionate+Pedagogy;Python+%7C+AI+%7C+Document+Automation;H-STEM+%7C+MIL+%7C+Agentic+EdTech" alt="Typing SVG" />
 </p>
 
 <p align="center">
