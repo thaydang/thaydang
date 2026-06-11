@@ -49,16 +49,16 @@
 
 ## 🚀 Dự án nổi bật
 
-### 🔬 [EdTech-KHTN-CI](https://github.com/thaydang/EdTech-KHTN-CI)
-> **Hệ thống Tự động hóa Đề thi KHTN THCS Lớp 6–9** theo kiến trúc Agentic Engineering.
+### 🔬 [EdTech-KHTN-CI](https://github.com/thaydang/EdTech-KHTN-Docs)
+> **Hệ thống Tự động hóa Đề thi KHTN THCS Lớp 6–9** ứng dụng kiến trúc Agentic Engineering giúp tối ưu hóa quy trình chế bản học liệu chuẩn Bộ GD&ĐT.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/thaydang/EdTech-KHTN-CI?style=flat-square&color=14B8A6)
 
-Giáo viên điều khiển AI bằng ngôn ngữ tự nhiên (Vibe Coding) — hệ thống tự động xây ma trận đặc tả chuẩn **Công văn 7991**, sinh câu hỏi và kết xuất file DOCX/PDF chuyên nghiệp, bảo toàn 100% định dạng.
+Giáo viên định hướng tư duy bằng ngôn ngữ tự nhiên (Vibe Coding) — hệ thống tự động cấu hình ma trận đặc tả phân hóa theo **Công văn 7991**, tự động biên dịch và xuất bản tài liệu đầu ra dạng DOCX/PDF chuyên nghiệp, bảo toàn 100% định dạng.
 
-- **Kiến trúc:** AI Agents sinh `.qmd` → Lua Filter (Pandoc AST) → XeLaTeX render PDF/DOCX (hỗ trợ `mhchem`)
-- **Giao diện:** Streamlit Dashboard — ngân hàng câu hỏi JSON, ma trận NB–TH–VD, Green Index
-- **CI/CD:** Docker + 4 GitHub Actions workflows (test · auto-render · build-push)
+* **Khối Brain:** AI Agents phân tích ngữ cảnh chương trình GDPT 2018 để tự động tối ưu cấu trúc tài liệu `.qmd`.
+* **Khối Core Engine:** Chuyển đổi thông minh qua Quarto → Pandoc AST → Bộ lọc Lua Filter để xử lý định dạng cột phương án và công thức hóa học (`mhchem`).
+* **Khối Executors:** Giao diện Streamlit Dashboard quản lý ngân hàng câu hỏi JSON, tích hợp đóng gói Docker và kiểm thử tự động CI/CD (GitHub Actions).
 
 `Python` `Quarto` `LaTeX` `Streamlit` `Lua` `Docker` `GitHub Actions`
 
